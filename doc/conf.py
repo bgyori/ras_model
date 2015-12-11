@@ -29,7 +29,7 @@ sys.path.insert(0, os.path.abspath('ext'))
 extensions = [
     'sphinx.ext.autodoc', 'sphinx.ext.doctest', 'sphinx.ext.intersphinx',
     'sphinx.ext.todo', 'sphinx.ext.coverage', 'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig', 'sphinx.ext.viewcode',
+    'sphinx.ext.ifconfig', 'sphinx.ext.viewcode', 'sphinx.ext.graphviz',
     'citations', 'litmodel',
     ]
 

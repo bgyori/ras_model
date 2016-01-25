@@ -1,0 +1,45 @@
+Growth factors activate EGFR, ERBB2 and FGFR1-4.
+Growth factors activate PDGFRA and PDGFRB.
+Growth factors activate MET, ROS1 and ALK.
+MET, ROS1 and ALK activate SOS1, SOS2/GRB2/SHC1-4 and RASGRF2.
+EGFR, ERBB2, PDGFRA, PDGFRB, MET, ROS1, ALK, FGFR1-4 activate SOS1, SOS2/GRB2/SHC1-4 and RASGRF2.
+PDGFRA and PDGFRB activate SOS1, SOS2/GRB2/SHC1-4 and RASGRF2.
+SOS1, SOS2/GRB2/SHC1-4 and RASGRF2 activate HRAS, NRAS and KRAS.
+RASGRP1-4 activates HRAS, KRAS and NRAS.
+SPRY1-4 deactivates HRAS, KRAS and NRAS.
+RASA1-3/ARHGAP35, RASAL1-3 and NF1.SPRED1-3 deactivate HRAS, NRAS and KRAS.
+
+HRAS, NRAS and KRAS activate RALGDS.
+RALGDS activates RALA and RALB.
+
+HRAS, NRAS and KRAS activate ARAF, BRAF and RAF1.
+ARAF, BRAF and RAF1 activate MAP2K1 and MAP2K2.
+MAP2K1 and MAP2K2 activate MAPK1 and MAPK3.
+MAPK1 and MAPK3 activate ETS1-2, FOS and JUN.
+
+KSR1-2 binds ARAF, BRAF and RAF1.
+KSR1-2 binds MAP2K1 and MAP2K2.
+KSR1-2 binds MAPK1 and MAPK3.
+
+ETS1-2, FOS and JUN activate MDM2, CCND1 and DUSP1-6.
+MDM2 deactivates TP53.
+CCND1 activates CDK4 and CDK6, which deactivate RB1.
+DUSP1-6 deactivates MAPK1 and MAPK3.
+
+SOS1, SOS2/GRB2/SHC1-4 and RASGRF2 activate RHOA, RHOB and RHOC.
+RHOA, RHOB and RHOC activate ROCK1 and ROCK2.
+RASA1-3/ARHGAP35, RASAL1-3 and NF1/SPRED1-3 deactivate RHOA, RHOB and RHOC.
+
+HRAS, NRAS and KRAS activate PIK3CA-D and PIK3R1-6.
+PIK3CA-D and PIK3R1-6 activate PIP3.
+PTEN deactivates PIP3.
+PIP3 activates PDPk1, AKT1-3 and TIAM1-2.
+PDPK1 activates AKT1-3.
+AKT1-3 deactivates TSC1/TSC2.
+TSC1/TSC2 deactivates RHEB.
+RHEB activates MTOR/RPTOR/MLST8.
+STK11 activates PRKAA1-2, PRKAB1-2 and PRKAG1-3.
+PRKAA1-2, PRKAB1-2 and PRKAG1-3 deactivate MTOR/RPTOR/MLST8.
+MTOR/RPTOR/MLST8 deactivates EIF4EBP1.
+MTOR/RPTOR/MLST8 activates RPS6KA1-6.
+TIAM1-2 activates RAC1-3, which activates PAK1-4.
